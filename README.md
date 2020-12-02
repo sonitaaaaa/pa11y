@@ -1035,3 +1035,4 @@ Copyright &copy; 2013–2019, Team Pa11y and contributors
 [shield-node]: https://img.shields.io/node/v/pa11y.svg
 [shield-npm]: https://img.shields.io/npm/v/pa11y.svg
 [shield-build]: https://img.shields.io/travis/pa11y/pa11y/master.svg
+.
